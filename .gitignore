@@ -1,0 +1,33 @@
+# Xcode user data and local workspace state
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Xcode build output
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM.zip
+
+# macOS metadata
+.DS_Store
+
+# Swift Package Manager and other local build data
+.build/
+Packages/
+Package.resolved
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Local credentials and secrets
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.cer
